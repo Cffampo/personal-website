@@ -24,7 +24,7 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 ---
 
 ## 🎯 Purpose
-This project serves as a central hub to highlight my work and track my progress as I continue developing skills in **software engineering, cloud, and DevOps**.
+This project serves as a personal portfolio to showcase my projects, skills, and experience as a developer.
 
 ---
 
