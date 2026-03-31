@@ -37,8 +37,9 @@ This project serves as a central hub to highlight my work and track my progress 
 ---
 
 ## 📚 Acknowledgment
-Inspired by a structured project idea from:
-https://roadmap.sh/projects/portfolio-website
+Inspired by structured project ideas from:
+- https://roadmap.sh/projects/portfolio-website
+- https://roadmap.sh/projects/basic-html-website
 
 ---
 
