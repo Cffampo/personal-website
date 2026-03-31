@@ -36,6 +36,11 @@ This project serves as a central hub to highlight my work and track my progress 
 
 ---
 
+## 📚 Acknowledgment
+Inspired by a structured project idea from:
+https://roadmap.sh/projects/portfolio-website
+
+---
+
 ## 📬 Contact
 Feel free to connect with me or check out my other projects!
-
