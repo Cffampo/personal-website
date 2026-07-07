@@ -1,9 +1,8 @@
 # 🌐 Personal Portfolio Website
-
-A responsive personal portfolio website built using **HTML, CSS, and JavaScript** to showcase my projects, technical skills, and experience.
+A responsive personal portfolio website built using **React** to showcase my projects, technical skills, and experience.
 
 ## 🚀 Live Demo
-🔗 [View Website](https://cffampo.netlify.app/)/
+🔗 [View Website](https://cffampo.netlify.app/)
 
 ---
 
@@ -11,35 +10,32 @@ A responsive personal portfolio website built using **HTML, CSS, and JavaScript*
 - Responsive design for desktop and mobile
 - Clean and modern UI
 - Project showcase section
-- Smooth navigation and layout
-- Optimized performance
+- Smooth client-side navigation with React Router
+- Component-based architecture
+- Optimized performance with Vite
 
 ---
 
 ## 🛠️ Tech Stack
-- **HTML5** – Structure and content
+- **React** – Component-based UI
+- **React Router** – Client-side routing between pages
+- **Vite** – Build tool and development server
 - **CSS3** – Styling, layout (Flexbox/Grid), responsiveness
-- **JavaScript** – Interactivity and dynamic behavior
+- **JavaScript** – Logic and interactivity
 
 ---
 
 ## 🎯 Purpose
-This project serves as a personal portfolio to showcase my projects, skills, and experience as a developer.
+This project serves as a personal portfolio to showcase my projects, skills, and experience as a developer. Originally built in HTML/CSS/JS and rebuilt in React to practice component-based architecture and modern frontend tooling.
 
 ---
 
 ## 🧠 What I Learned
-- Building responsive layouts using CSS
-- Structuring clean and maintainable HTML
-- Enhancing UI with JavaScript
-- Improving user experience through design
-
----
-
-## 📚 Acknowledgment
-Inspired by structured project ideas from:
-- https://roadmap.sh/projects/portfolio-website
-- https://roadmap.sh/projects/basic-html-website
+- Building React apps with Vite
+- Converting static HTML pages into reusable React components
+- Client-side routing with React Router
+- Managing UI state with useState
+- Deploying a React app with Netlify
 
 ---
 
