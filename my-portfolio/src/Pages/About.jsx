@@ -29,7 +29,7 @@ function About() {
 
             <div className="section-divider"></div>
 
-            <section class="bio-section fade-in">
+            <section className="bio-section fade-in">
                 <h2>Bio</h2>
                 <p>Hi, I’m <strong>Carl Fampo</strong> 👋. I’m a Computer Science student at Indiana University with a passion
                     for building impactful projects, exploring new technologies 💻, and pushing myself both mentally and
@@ -51,45 +51,45 @@ function About() {
                     grow.</p>
             </section>
 
-            <section class="skills-section fade-in">
+            <section className="skills-section fade-in">
                 <h3>Languages</h3>
-                <div class="skills-cards">
-                    <div class="skill-card language">Java ☕</div>
-                    <div class="skill-card language">JavaScript ✨</div>
-                    <div class="skill-card language">Python 🐍</div>
-                    <div class="skill-card language">SQL 🗄️</div>
-                    <div class="skill-card language">HTML5 🌐</div>
-                    <div class="skill-card language">CSS3 🎨</div>
+                <div className="skills-cards">
+                    <div className="skill-card language">Java ☕</div>
+                    <div className="skill-card language">JavaScript ✨</div>
+                    <div className="skill-card language">Python 🐍</div>
+                    <div className="skill-card language">SQL 🗄️</div>
+                    <div className="skill-card language">HTML5 🌐</div>
+                    <div className="skill-card language">CSS3 🎨</div>
                 </div>
 
                 <h3>Frameworks & Technologies</h3>
-                <div class="skills-cards">
-                    <div class="skill-card tool">React ⚛️</div>
-                    <div class="skill-card tool">Node.js 🟢</div>
-                    <div class="skill-card tool">Express.js 🚀</div>
-                    <div class="skill-card tool">MongoDB 🍃</div>
-                    <div class="skill-card tool">Docker 🐳</div>
-                    <div class="skill-card tool">REST APIs 🌐</div>
+                <div className="skills-cards">
+                    <div className="skill-card tool">React ⚛️</div>
+                    <div className="skill-card tool">Node.js 🟢</div>
+                    <div className="skill-card tool">Express.js 🚀</div>
+                    <div className="skill-card tool">MongoDB 🍃</div>
+                    <div className="skill-card tool">Docker 🐳</div>
+                    <div className="skill-card tool">REST APIs 🌐</div>
                 </div>
 
                 <h3>Tools</h3>
-                <div class="skills-cards">
-                    <div class="skill-card tool">Git & GitHub 🐙</div>
-                    <div class="skill-card tool">VS Code 🖥️</div>
-                    <div class="skill-card tool">IntelliJ IDEA 💡</div>
-                    <div class="skill-card tool">Android Studio 🤖</div>
-                    <div class="skill-card tool">Postman 📬</div>
-                    <div class="skill-card tool">Google Looker Studio 📊</div>
+                <div className="skills-cards">
+                    <div className="skill-card tool">Git & GitHub 🐙</div>
+                    <div className="skill-card tool">VS Code 🖥️</div>
+                    <div className="skill-card tool">IntelliJ IDEA 💡</div>
+                    <div className="skill-card tool">Android Studio 🤖</div>
+                    <div className="skill-card tool">Postman 📬</div>
+                    <div className="skill-card tool">Google Looker Studio 📊</div>
                 </div>
 
                 <h3>Professional Skills</h3>
-                <div class="skills-cards">
-                    <div class="skill-card lifestyle">Problem Solving 🧩</div>
-                    <div class="skill-card lifestyle">Communication 🗣️</div>
-                    <div class="skill-card lifestyle">Team Collaboration 🤝</div>
-                    <div class="skill-card lifestyle">Leadership 🏆</div>
-                    <div class="skill-card lifestyle">Time Management ⏰</div>
-                    <div class="skill-card lifestyle">Adaptability 🚀</div>
+                <div className="skills-cards">
+                    <div className="skill-card lifestyle">Problem Solving 🧩</div>
+                    <div className="skill-card lifestyle">Communication 🗣️</div>
+                    <div className="skill-card lifestyle">Team Collaboration 🤝</div>
+                    <div className="skill-card lifestyle">Leadership 🏆</div>
+                    <div className="skill-card lifestyle">Time Management ⏰</div>
+                    <div className="skill-card lifestyle">Adaptability 🚀</div>
                 </div>
             </section>
 

@@ -1,3 +1,5 @@
+//This configures ESLint, a tool that checks your code for mistakes and enforces consistent coding style.
+
 import js from '@eslint/js'
 import globals from 'globals'
 import reactHooks from 'eslint-plugin-react-hooks'
@@ -19,3 +21,5 @@ export default defineConfig([
     },
   },
 ])
+
+
