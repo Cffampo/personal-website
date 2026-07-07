@@ -23,6 +23,7 @@ function Navbar() {
                 <span className="material-symbols-outlined menu-button">menu</span>
                 <span className="menu-text">menu</span>
             </div>
+            {/* If isOpen == true, "all-over-bkg is-visible else just "all-over-bkg" */}
             <div className={isOpen ? "all-over-bkg is-visible" : "all-over-bkg"} onClick={() => setIsOpen(false)}></div>
         </>
     )
